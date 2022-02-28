@@ -55,10 +55,10 @@
 }
 
 .image {
-  width: 21%;
+  width: 250px;
   position: relative;
   bottom: 290px;
-  left: 40px;
+  left: 2%;
 }
 
 .wrapper {

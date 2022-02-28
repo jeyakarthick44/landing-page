@@ -86,8 +86,7 @@ export default function Main() {
                 color: "white",
               }}
             >
-              A better Way to
-              <br /> Ship web apps
+              A better Way to Ship web apps
             </Heading>
             {/* <Text as={"h1"} color={"white"}>
               A better Way to <br />
